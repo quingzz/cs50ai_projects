@@ -2,7 +2,7 @@
 
 ## IMPORTANT NOTES
 - Please be aware of the course's [Academic Honesty](https://cs50.harvard.edu/ai/2020/honesty/) policy before visiting the files.
-- Some large datasets are not included, please refer to project page on CS50 AI for link to download the dataset
+- Some large datasets are not included, please refer to the corresponding project page on CS50 AI for link(s) to download the dataset
 
 ## Table of content
 
